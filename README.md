@@ -1,5 +1,7 @@
+# Jorge Vásquez
 ### Hi there 👋
 
+**'Student aspiring to become a NLP expert'**
 <!--
 **JorgeV20/JorgeV20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
