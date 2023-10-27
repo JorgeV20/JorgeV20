@@ -1,8 +1,7 @@
 # Jorge Vásquez
-### Hi there! 👋 and welcome to my Github Profile!
-
 **' Aspiring to become a NLP expert.'**
 
+### Hi there! 👋 and welcome to my Github Profile!
 
 I am curious person by nature, and I really enjoy solving problems. That's why I chose the path of coding in order to build applications with the help of AI. 
 With a master's degree in NLP and a big passion in building intelligent assistants, ASR apps and more, I am really motivated to work day by day in order to become an expert in the NLP domain.
