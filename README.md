@@ -1,5 +1,5 @@
 # Jorge Vásquez
-### Hi there 👋
+### Hi there and welcome to my Github Profile! 👋
 
 **' Aspiring to become a NLP expert.'**
 
