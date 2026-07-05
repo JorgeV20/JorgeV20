@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
           
-<p align="left"><img src="https://komarev.com/ghpvc/?username=JorgeV20&label=Profile%20views&color=0e75b6&style=flat" alt="JorgeV20" /></p>
+- <p align="left"><img src="https://komarev.com/ghpvc/?username=JorgeV20&label=Profile%20views&color=0e75b6&style=flat" alt="JorgeV20" /></p>
